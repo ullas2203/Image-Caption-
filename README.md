@@ -126,10 +126,3 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 - [Flickr8k Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
 ## Thanks
-
-**If you found it useful, leave a ⭐ here!**
-
-```bash
-Author: DataScientist00
-Data Scientist
-Email: nikzmishra@gmail.com
